@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HVipe
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python, html, mySQL
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Python, HTML, MySQL, C#
 
 
 <!---
